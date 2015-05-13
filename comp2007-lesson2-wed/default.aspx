@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
+    <div> 
         <asp:Label ID="lblMessage" runat="server"></asp:Label>
         <asp:Literal ID="ltlMessage" runat="server"></asp:Literal>
         <asp:TextBox ID ="txtMessage" runat="server" ></asp:TextBox>
